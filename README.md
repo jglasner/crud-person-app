@@ -3,8 +3,6 @@
 
 # Sobre o projeto
 
-https://jglasner.github.io/
-
 Crud Person é uma aplicação full stack web construída para demonstrar as funcionalidades de um CRUD nas ténologias Spring Boot e React
 
 A aplicação consiste em realizar o cadastro de pessoas para criar e gerenciar os registros.
